@@ -1,4 +1,4 @@
 # helloworld
-Garage for programming
-this is my attempt at understanding the world of programming
-learn and contribute to the community
+Garage for programming.
+ This is my attempt at understanding the world of programming.
+ learn and contribute to the community
